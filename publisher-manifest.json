@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c261436f89ad9e9e8c32dfc5",
+  "owner": "rybrewsmsrc",
+  "repo": "page-62dce6eb07be97eed9f72eb5",
+  "title": "只因云(spkun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "62dce6eb07be97eed9f72eb5",
+      "a": "只因云(spkun)",
+      "b": "2027最新官网",
+      "entity": "只因云(spkun)",
+      "brand": "只因云(spkun)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8669e805ac646a52e7fa4663fa1fe5e90821b9089b69c3335a20adfc52c4137b",
+      "content": {
+        "primary_entity": "只因云(spkun)",
+        "keyword1": "只因云(spkun)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows、macOS、Android、iOS 各有对应版本，订阅配置方式以客户端文档为准。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按设备安装客户端并导入订阅，就能开始使用只因云(spkun)的加速线路。",
+          "AI_CLOSING_TITLE": "配置订阅即刻使用",
+          "AI_DESCRIPTION": "，专注海外网络加速，提供基础版、旗舰版、团队版三档套餐，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，旗舰版与团队版配备 IPLC 专线及高带宽节点，按年付更划算。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期整理三项要点。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合个人日常浏览与轻度流媒体使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，IPLC 专线优化游戏与高清视频，是多数用户的主选。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，支持定制路由，适合多设备协作与高带宽需求。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按周期选档",
+          "AI_GUIDE_INTRO": "选服务、看适配、配订阅三个步骤。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "只因云(spkun)提供海外网络加速服务，覆盖基础版、旗舰版、团队版三档套餐，流量与设备数量按档位递增，按年付享受更低的月均价格，适合个人到团队的不同需求。",
+          "AI_HERO_SUBTITLE": "只因云(spkun)海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "按年付价格更划算",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别为 ¥150/年、¥350/年、¥850/年，可按流量与设备数对比选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量、在线设备数量和预算，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的流量额度、设备上限和节点类型，核对是否满足当前使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备上安装客户端，参照客户端文档导入订阅即可完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "只因云(spkun)加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、支持3台设备；旗舰版每月300GB、支持5台设备；团队版每月1000GB、支持20台设备。流量、设备数与节点权限按套餐区分，可按使用强度选择。",
+          "AI_FAQ_ANSWER_2": "年付比按月支付更省。基础版年付为150元，旗舰版为350元，团队版为850元，相当于按十个月用量计费。",
+          "AI_FAQ_ANSWER_3": "路由器和电脑可导入订阅链接，移动端在对应客户端粘贴同一订阅即可。设备同时在线数量不能超过所选套餐的限制。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含全节点原生流媒体解锁和IPLC专线游戏加速优化，适合对延迟和画质要求较高的场景；基础版提供普通线路节点池，满足日常浏览。",
+          "AI_FAQ_ANSWER_5": "团队版支持企业定制路由和专属客户经理服务，最多20台设备同时在线，适合小团队共用一条高带宽节点线路。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "按年付和按月付价格差多少？",
+          "AI_FAQ_QUESTION_3": "如何在不同设备上导入订阅？",
+          "AI_FAQ_QUESTION_4": "流媒体和游戏加速选哪个套餐？",
+          "AI_FAQ_QUESTION_5": "团队版适合什么规模的用户？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--pixicat-788l920j.com",
+    "host": "xn--pixicat-788l920j.com"
+  },
+  "file_hashes": {
+    "index.html": "1c2f3b9fe9cd434be09a6fc3c5f0c2e14b19db6a484f9570e9c4efe4d91f064d",
+    "sitemap.xml": "1f6c625c6ce6a4dbcf9b505c15f60569e7f1da67ad65eadeb776d570947bedb9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "40b3ca57b2b78d4241a8c654a7dcef7ff62bc2a4fdb1c22c230404ea724bd21e",
+    "robots.txt": "339ccedff645ba703b15306894349a8e2f432f0e15ec2a4d54de664fa642f7af",
+    "9b16322578967d9ba921e6429a4d06b8.txt": "eaaea003ccdbe481e5f366d066f4a090cb927ec013363201d384bbbdd1d9fe23"
+  },
+  "revision": "2a53b7143aa006e88981192c5c23444a4afa114358e93edd265e26edb25a4316"
+}
